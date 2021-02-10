@@ -1,0 +1,48 @@
+
+.main{
+    background-image: url(fire.jpg);
+}
+.one{
+    margin-top: 50px;
+    
+}
+.form-control{
+    width: 500px;
+    margin: 0 auto;
+    height: 50px;
+    font-style: oblique;
+    font-size: x-large;
+}
+
+.btn-primary{
+ width: 200px;
+margin-left: 387px;
+}
+
+
+
+.alert-primary{
+    font-style: italic;
+    color: black;
+    background-color: rgb(187, 208, 228);
+}
+
+.alert-light{
+    font-style: italic;
+    background-color: cornsilk;
+    color: #000;
+}
+
+.five{
+    color: cornsilk;
+    font-style: italic;
+    text-align: center;
+}
+
+.three{
+font-style: oblique;
+font-size:xx-large large;
+/* color: lavender; */
+color: cornsilk;
+margin-top: 40px;
+}
